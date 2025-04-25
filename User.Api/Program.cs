@@ -7,7 +7,7 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
-Database.Instance = new MemoryDatabase();
+Database.Instance = new FileDatabase();
 
 app.UseHttpsRedirection();
 app.UseAuthorization();

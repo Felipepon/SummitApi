@@ -24,3 +24,4 @@ C:\Users\felipepon\Desktop\SummitApi\obj\Debug\net9.0\refint\SummitApi.dll
 C:\Users\felipepon\Desktop\SummitApi\obj\Debug\net9.0\SummitApi.pdb
 C:\Users\felipepon\Desktop\SummitApi\obj\Debug\net9.0\SummitApi.genruntimeconfig.cache
 C:\Users\felipepon\Desktop\SummitApi\obj\Debug\net9.0\ref\SummitApi.dll
+C:\Users\felipepon\Desktop\SummitApi\obj\Debug\net9.0\SummitApi.sourcelink.json

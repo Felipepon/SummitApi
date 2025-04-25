@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummitApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a2135e311f4e3fb788bdcec7708f9fda840f00")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummitApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummitApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
